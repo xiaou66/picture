@@ -1,0 +1,2 @@
+在两个场景切换时 保存原场景的内容需要什么技术
+`Dontdestoryonload`
